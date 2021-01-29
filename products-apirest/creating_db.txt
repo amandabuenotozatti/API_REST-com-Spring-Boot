@@ -7,3 +7,14 @@ INSERT INTO tb_product (name, amount,value) VALUES ('SmartTV LG 50', 1, 1600.00)
 INSERT INTO tb_product (name, amount,value) VALUES ('Smart TV Samsung 50', 1, 1900.00);
 INSERT INTO tb_product (name, amount,value) VALUES ('PSG 4', 1, 3000.00);
 INSERT INTO tb_product (name, amount,value) VALUES ('PS5', 1, 4000.00);
+
+
+INSERT INTO tb_product (id, name, amount, value) VALUES (1, 'Notebook Gamer Samsung', 1, 2000.00);
+INSERT INTO tb_product (id, name, amount, value) VALUES (4, 'Notebook Lenovo', 2, 1400.00);
+INSERT INTO tb_product (id, name, amount, value) VALUES (6, 'Mac Book', 4, 4000.00);
+INSERT INTO tb_product (id, name, amount, value) VALUES (3, 'Iphone 10', 1, 4000.00);
+INSERT INTO tb_product (id, name, amount, value) VALUES (9, 'Moto G5S', 1, 1000.00);
+INSERT INTO tb_product (id, name, amount, value) VALUES (10, 'SmartTV LG 50', 1, 1600.00);
+INSERT INTO tb_product (id, name, amount, value) VALUES (11, 'Smart TV Samsung 50', 1, 1900.00);
+INSERT INTO tb_product (id, name, amount, value) VALUES (12, 'PSG 4', 1, 3000.00);
+INSERT INTO tb_product (id, name, amount, value) VALUES (13, 'PS5', 1, 4000.00);
